@@ -8,3 +8,4 @@ mkdir is the script to create a new directory
 mv is used to move a file to a new directory
 rm is for removing a file example betty file
 rm -rf allows me to delete even directories
+cd .. makes me go to the previous directory
