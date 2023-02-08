@@ -1,0 +1,3 @@
+#!/bin/bash
+mkdir /tmp/my_first_directory
+mkdir is the script to create a new directory
