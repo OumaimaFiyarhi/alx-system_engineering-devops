@@ -10,3 +10,4 @@ rm is for removing a file example betty file
 rm -rf allows me to delete even directories
 cd -  makes me go to the previous directory
 ls -al . ..  List all files in the parent of the working directory in long format
+file is a script that prints the type of the file
