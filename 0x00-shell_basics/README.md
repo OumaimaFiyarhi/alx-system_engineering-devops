@@ -13,3 +13,4 @@ ls -al . ..  List all files in the parent of the working directory in long forma
 file is a script that prints the type of the file
 ln -s is a command to create a symbolic link
 cp -un *.html ../ is a script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
+mv *[[:upper:]] /tmp/u is  a script that moves all files beginning with an uppercase letter to the directory /tmp/u.
