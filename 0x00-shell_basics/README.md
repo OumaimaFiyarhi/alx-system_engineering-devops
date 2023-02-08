@@ -6,3 +6,4 @@ ls -la Display current directory contents, including hidden files in long format
 ls -lan displys Long format with user and group IDs displayed numerically and hidden files
 mkdir is the script to create a new directory
 mv is used to move a file to a new directory
+rm is for removing a file example betty file
