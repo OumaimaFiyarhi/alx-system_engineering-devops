@@ -8,3 +8,4 @@ to declare a local variable  type the name you want and set its value using the 
 to create a global variable add export before everything and declare it the same way as local variable.
 echo $((expression)) is the command to do arithmetic operations  
 ** is an operator that calculates exponentiation
+# is used to convert from binary to decimal
