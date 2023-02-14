@@ -7,3 +7,4 @@ set is a script that lists all local variables and environment variables, and fu
 to declare a local variable  type the name you want and set its value using the equals sign =
 to create a global variable add export before everything and declare it the same way as local variable.
 echo $((expression)) is the command to do arithmetic operations  
+** is an operator that calculates exponentiation
