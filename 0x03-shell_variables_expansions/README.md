@@ -9,3 +9,4 @@ to create a global variable add export before everything and declare it the same
 echo $((expression)) is the command to do arithmetic operations  
 ** is an operator that calculates exponentiation
 # is used to convert from binary to decimal
+echo {a..z}{a..z} is a command that shows all combinations of two letters
