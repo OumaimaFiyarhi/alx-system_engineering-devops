@@ -5,4 +5,5 @@ wc -l is the command that counts number of lines
 printenv is a script that lists environment variables
 set is a script that lists all local variables and environment variables, and functions.
 to declare a local variable  type the name you want and set its value using the equals sign =
-to create a global variable add export before everything and declare it the same way as local variable. 
+to create a global variable add export before everything and declare it the same way as local variable.
+echo $((expression)) is the command to do arithmetic operations  
