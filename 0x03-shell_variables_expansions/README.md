@@ -4,3 +4,4 @@ export $var is a command that makes changes to the variable $var
 wc -l is the command that counts number of lines
 printenv is a script that lists environment variables
 set is a script that lists all local variables and environment variables, and functions.
+to declare a local variable  type the name you want and set its value using the equals sign = 
